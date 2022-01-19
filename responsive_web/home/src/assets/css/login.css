@@ -1,0 +1,34 @@
+.login {
+  /* opacity: 0.1; */
+  /* margin: 0; */
+}
+
+.login__background {
+  /* opacity: 0.5; */
+  position: absolute;
+  width: 33.33%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.login__take__a__look {
+  position: absolute;
+  display: flex;
+  right: 0;
+  margin-right: 10px;
+  align-items: center;
+}
+
+.login__gird {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+.login__main {
+  margin: 10% 10% 10% 10%;
+}
+
+.login__top__img {
+  height: 80px;
+}

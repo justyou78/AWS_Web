@@ -1,0 +1,10 @@
+@types/react : react 타입 규정자들을 포함하기위한 패키지
+@types/react-dom : react-dom 타입 규정자들을 포함하기위한 패키지
+clean-webpack-plugin : 빌드 폴더를 비우기 위한 플러그인. (폴더 : dist)
+css-loader : css 코드를 자바스크립트 모듈로 변경하는 로더.
+style-loader : css-loader에 의해서 처리된 모듈을 동적으로 돔에 추가하는 로더.
+html-webpack-plugin : 웹팩 번들을 제공하기 위한 HTML 파일 생성, dev-server를 위한 html도 제공.
+ts-loader : 타입스크립드 해석 및 해결을 위한 패키지.
+webpack-merge : webpack 설정을 병합하기 위한 패키지
+
+
